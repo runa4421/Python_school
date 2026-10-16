@@ -43,5 +43,5 @@ for i in range(n):
             right += 4
             print("＋４点")
     else:
-        print("不正解！(><)")
+        print("不正解(><)")
 result()
